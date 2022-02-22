@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. To all to whom these presents shall come, greeting. Whereas we haue beene informed, aswell by a lamentable petition on the behalfe of fifteene hundred of our louing subiects, English men, remaining in miserable seruitude and subiection in Argier, Tunis, Sally, Tituane ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22321</idno>
+            <idno type="STC">STC 8729</idno>
+            <idno type="STC">ESTC S100888</idno>
+            <idno type="EEBO-CITATION">99836715</idno>
+            <idno type="PROQUEST">99836715</idno>
+            <idno type="VID">1001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. To all to whom these presents shall come, greeting. Whereas we haue beene informed, aswell by a lamentable petition on the behalfe of fifteene hundred of our louing subiects, English men, remaining in miserable seruitude and subiection in Argier, Tunis, Sally, Tituane ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>England and Wales. Parliament. House of Lords. Proceedings. 1624-05-27.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bonham Norton and John Bill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes the text of the captives' petition and an order from the House of Lords of 27 May 1624 for a collection for the captives.</note>
+                  <note>Dated at end: Westminster the nine and twentieth day of Iune, in the two and twentieth yeere of our reigne ..</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hostages --  Great Britain --  Early works to 1800.</term>
+               <term>Hostages --  Africa, Northwest --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:1001:1"/>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES By the Grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed> 
+               <salute>To all to whom theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>
+               <hi>WHEREAS</hi> We haue beene informed, aſwell by a lamentable Petition on the behalfe of fifteene hundred of our louing Subiects, Engliſh men, remaining in miſerable ſeruitude and ſubiection in <hi>Argier, Tunis, Sally, Tituane,</hi> exhibited to the Lords Spirituall &amp; Temporall, in Our laſt Parliament-aſſembly, thereby pitifully crauing ſome good meane to be taken for their reliefe and redemption, As alſo by an order taken and ſet downe, the ſeuen and twentieth day of <hi>May,</hi> 1624, by the ſayd Lords then in Parliament aſſembled; thereby ordering, that Letters Patents ſhould be made for their reliefe, to the effect in theſe preſents follow<g ref="char:EOLhyphen"/>ing: The humble and lamentable complaint of aboue fifteene hundred poore Captiues ſoules, now vnder the miſerable oppreſſi<g ref="char:EOLhyphen"/>on of the Turkes in <hi>Argier, Tunis, Sally,</hi> and <hi>Tituane,</hi> Who lamentably ſhew, That beeing ſurprized in one hundred and fifty of his Maieſties ſubiects Shippes by Turkiſh Pyrates, and now remaining in the ſaid Ports, and held in miſerable ſlauery, and ſolde from party to party, and kept in chaines of Iron, their food, bread and water, to their extreame griefe, ſome theſe three yeeres, ſome more, ſome leſſe; not onely to the great damage of themſelues, but of their poore wiues and children, who are all ready to ſtarue and periſh for want of meanes for their ſuſtentation: And they further moſt lamentably complaine, that moſt of the youthfuller ſort are of late forced and compelled by intolerable and inſufferable puniſhments and torments, to deny their Sauiour, and turne to their Mahumetan Religion, and to deny their owne King and Countrey, which (God knowes) is to their great griefe, and vtter diſcomfort for euer, vnleſſe their reliefe and freedome may be purchaſed and obteined by the fauourable and pious conſideration and aſſiſtance of this Honourable Aſſembly, without which they are like to be all vtterly ruined both in body and ſoule, and their poore wiues and children likely (through extremity and want) miſerably to periſh. <hi>NOW</hi> the lamentable complaint and cry of ſo many poore ſoules, and the grieuous torments they now ſuſtaine for their conſcience ſake, being well weighed and conſidered of, by this great and graue Aſſembly, They humbly vpon their bare knees, for Chriſt Ieſus ſake, moſt humbly deſire, that (out of the bowels of compaſſion) your Honours will be pleaſed to take ſome ſpeedy courſe and meanes for the freeing of them out of the mercileſſe hands of thoſe cruell Infidels; all reliefe and comfort heretofore ſent them by their poore wiues &amp; friends beeing deteined and kept from them; by reaſon whereof they are inforced to grinde corne in beſtiall manner like horſes, for to get ſome foode to preſerue their wretched liues, with infinite miſeries, not here mentioned for breuities ſake, and the great and extreme neceſſities of their poore wiues and children: And they with all their wiues and children, beeing many hundreds in number, ſhall daily pray for the happy ſucceſſe of your Honors in all your enterpriſes.</p>
+            <p>
+               <hi>VPON</hi> the reading of which Petition, it is, this ſeuen and twentieth day of <hi>May,</hi> 1624. ordered by the Lords Spirituall and Temporall in this preſent Parliament aſſembled, That Letters Patents be granted for a Collection throughout the whole Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> for redemp<g ref="char:EOLhyphen"/>tion of thoſe miſerable Captiues; the ſayd Letters Patents to be graunted vpon commendations from the Lords of the Parliament, vpon Petition preferred to their Lordſhips: The ſaid Letters Patents, with printed Briefes to be ſent to the Lords Biſhops in their ſeuerall Dioceſſes, within each Prouince, and their Lordſhips to ſend the Briefes to all the Miniſters of euery Pariſh within their Dioceſſe: Which Miniſters by eſpeciall exhortation, are to ſtirre vp the charity of their Pariſhioners, for a liberall contribution towards this ſo charitable a worke: The money in euery Pariſh to be collected by the Churchwar<g ref="char:EOLhyphen"/>dens and Ouerſeers of the poore; who preſently after the Collection, ſhall declare publiquely in the Church what is collected, and the ſame ſumme to be put on the backeſide of the Briefe, with their and the Miniſters hands to it: and then the Church wardens and Ouerſeers of the poore, or one of them, to deliuer the ſame Collection to ſome ſuch Miniſter in euery Deanry, as ſhalbe nominated by the Lord Biſhop for the receipt of the ſame: And thoſe Miniſters to deliuer the ſame within ten daies after the receipt thereof, to the Lord Biſhop of the Dioceſſe; and euery Biſhop to deliuer euer the Collection made in his Dioceſſe to his Metropolitan: And the Metropolitan of <hi>Yorke,</hi> to tranſmit what is collected within his Prouince, to the Archbiſhop of <hi>Canterbury,</hi> vnto whom by order of the <hi>Houſe,</hi> all the money to be collected for this vſe, is to be deliuered; who, with the aduiſe of ſixe Lords of Parliament, and the Lords of His Maieſties Priuie Councell, is to diſpoſe of the ſaid money ſo collected, for reliefe and redemption of the Captiues, as is ſpecified in the Petition and not otherwiſe. Eſpeciall com<g ref="char:EOLhyphen"/>mendations to all Maiors, &amp;c. and this to continue for one whole yeere. And by way of example, the Lords of Parliament are now ready to leade the way by <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ing in their ſeuerall rankes, (and ſo do order) fourty ſhillings of euery member aboue the degree of a Baron: And thoſe of the degree of Barons (Lords Spi<g ref="char:EOLhyphen"/>tituall and Temporall) twenty ſhillings apiece, to bee preſently payed into the hands of the Lord Archbiſhop of <hi>Canterbury,</hi> to be diſpoſed of, as the reſt of the moneys to be collected for the vſe aboue mentioned. And it is further ordered, That abſent Lords may not be exempted from this Contribution, but that the Lords that haue their Proxies depoſite the ſame for them. And it is alſo ordered, that all be done without any charge or reward to any perſon for the ſame, <hi>Ex. H. Elſing Cler. Parliamentorum. AND</hi> whereas alſo the ſaid Lords hauing perfectly vnderſtood, and duely conſidered the wofull and pitifull eſtate of thoſe poore men, and in commiſeration of them, haue freely of themſelues payed downe preſently euery of them aboue the eſtate of a Baron, fourty ſhillings a piece, and euery other of the eſtate of a Baron, being Spirituall or Temporall Lords, twenty ſhillings, to be payed into the hands of the moſt reuerend Father in God, the Lord Archbiſhop of <hi>Canterbury,</hi> towards this ſo charitable an action, as by the ſaid Order more at large appeareth: <hi>KNOW</hi> ye therefore, that We alſo aboue all other, moſt grieued at the pitifull and wofull eſtate of the ſayd poore men Our ſubiects, and much commiſerating the ſame, and much reioycing in the forwardneſſe of Our ſaid Lords, towards the performance of ſo chriſtian and charitable an action, whoſe good example We earneſtly deſire, that all other Our louing ſubiects of quality would follow in this behalfe, according to their degrees, of Our princely grace, doe ratifie and much approoue their ſaid Order ſo ſet downe, and in confirmation, and for the execution thereof doe graunt, that according to the ſaid Order, Collection may be made of the charitable deuotion and liberalitie of all Our louing ſubiects, throughout Our Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> in all places whatſouer, towards the reliefe and re<g ref="char:EOLhyphen"/>demption of Our ſaid poore ſubiects the Captiues aforeſaid, to be executed in manner and forme following: That is to ſay, Wee will, grant, appoint, and re<g ref="char:EOLhyphen"/>quire, that <hi>Walter Dobſon,</hi> Gentleman Apparitor to the Lord Archbiſhop of <hi>Canterbury</hi> his Grace, or his Deputie or Deputies named and appointed by him, in writing vnder his hand and ſeale, ſhall and may procure to bee printed ſo many Briefes of theſe Our Letters Patents, as may ſuffice for the accompliſhing and performance of this good worke, and ſhall carry and ſhew theſe Our Letters Patents vnder Our great Seale, to the ſaid Lord Archbiſhop of <hi>Canterbury,</hi> and ſhall alſo leaue with his Grace ſo many of thoſe printed Briefes, as there be Churches of Chappels, wherein publique diuine Seruice is vſually ſaid, with<g ref="char:EOLhyphen"/>in the circuit or precinct of the ſeuerall Prouinces of <hi>Canterbury</hi> and <hi>Yorke. AND</hi> Wee require euery of the ſaid Lord Archbiſhops to receiue the ſayd Briefes, and with all ſpeed to diſtribute vnto each Biſhop within his Prouince, and to ſend ſo many vnto the Archbiſhops of <hi>Yorke,</hi> as may ſerue to bee diſperſed within the Dioceſſes of his Prouince, the ſaid Briefes to be ſent by the ſaid Biſhops, to the Miniſter or Curate of euery Pariſh-church and Chappell within their ſe<g ref="char:EOLhyphen"/>uerall Dioceſſes. <hi>AND</hi> Wee alſo will and require euery Miniſter or Curate of any Church or Chappell, to whom ſuch printed Briefes ſhall be deliuered, that without any long delay, vpon ſome Sunday or Holiday, when the Pariſhioners be fully aſſembled to heare diuine Seruice, they publiquely declare in their ſeuerall Church or Chappell vnto the Congregation there aſſembled, the tenour of theſe Briefes, with an eſpeciall exhortation to them, to yeeld their liberall and extraordinary contribution to ſo charitable a worke. <hi>AND</hi> Wee alſo will and require you the Church wardens and Ouerſeers of the poore, to make dili<g ref="char:EOLhyphen"/>gent Collection of the charitable deuotion of the people in the ſayd Church or Chappell ſo aſſembled, and that after your Collection ſo made, you doe publiquely declare in the Church, the whole ſumme of money ſo by you collected, and then procure the ſame ſumme to be ſet downe vpon the backeſide of the Briefe, vnder your owne hands, and the hand of the Miniſter of the ſaid Church or Chappell: And then you the ſaid Church wardens, or Ouerſeers, or one of you, after the receipt of the ſame money collected, ſhall deliuer the ſumme collected, with the ſayd Briefe, vnto ſuch Miniſter of the Deanery, where the ſayd Collection ſhall be made, as the Lord Biſhop of the ſayd Dioceſſe, ſhall aſſigne or appoint to receiue the ſame: And the Biſhop of euery Dioceſſe, is hereby authorized to name and appoynt a Miniſter in euery Deanery, to receiue the ſaid Collections accordingly. <hi>AND</hi> Wee alſo require you the ſaid Miniſter, which ſhall be ſo appoyn<g ref="char:EOLhyphen"/>ted to receiue the ſayd money from the ſayd Ouerſeers, that you receiue the ſame, with the foreſaid Briefe, and that within ten dayes after the receipt thereof, you pay and deliuer the ſame, with the Briefe, whereby the ſame hath beene collected, vnto the Lord Biſhop of the Dioceſſe, where ſuch Collection is made. <hi>AND</hi> Wee alſo require you the Biſhops of euery Dioceſſe reſpectiuely, that you receiue of the ſayd Miniſter, the ſayd money, with the Briefe whereby the ſame hath beene collected, and deliuer ouer all the ſayd Collections made within your Dioceſſe, with the foreſaid Briefes, to the Metropolitane of the Prouince, wherein the Collection ſhall be made. <hi>AND</hi> Wee likewiſe require you the ſayd Archbiſhop of <hi>Yorke,</hi> that you without delay, doe tranſmit to the ſaid Lord Archbiſhop of <hi>Canterbury,</hi> all the ſummes of money collected within your Prouince, with the Briefes, whereby the ſame hath beene collected, with him to re<g ref="char:EOLhyphen"/>maine, vntill the ſame be diſpoſed of in ſuch fort, as by the foreſaid Order of the ſeuen and twentieth of <hi>May,</hi> 1624. the ſame is to be diſpoſed of; Any Statute, Lawe, Ordinance, or Prouiſion, heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>
+               <hi>IN WITNES</hi> whereof, We haue cauſed theſe Our Letters to be made Patents, for the ſpace of one whole yeere next after the date hereof to indure.</p>
+            <closer>
+               <dateline>
+                  <hi>WIT<g ref="char:EOLhyphen"/>NES</hi> Our ſelfe at Weſtminſter <date>the nine and twentieth day of <hi>Iune,</hi> in the two and twentieth yeere of Our Reigne of <hi>England, France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> he ſeuen and fiftieth.</date>
+               </dateline>
+               <signed>STEWARD.</signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
